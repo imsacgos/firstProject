@@ -1,1 +1,1 @@
-console.log('we are helper to make the fun fact')
+console.log('we are helper to make the fun fact!!')
