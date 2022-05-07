@@ -1,0 +1,1 @@
+console.log('we are helper to make the fun fact')
